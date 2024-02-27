@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3>Hello, I'm Roman.</h3>
+<h2>Cyber Security Professional</h2>
+<b>- AAS in Cyber Security</br>
+- CompTIA Security+ 
+</b>
+</br>
+</br>
+<h3>Current Activity</h3>
+- Completing the AWS cloud practitioner course as I work towards a certificate.</br>
+- Learning about computing with Raspberry Pi.
+</br>
+</br>
+<h2>Cyber Security Projects:</h2>
+- <b>Random Password Generator</b>
+</br>
+</br>
+<h2>Programming Projects:</h2>
 
-<!--
-**RoCSP/RoCSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
